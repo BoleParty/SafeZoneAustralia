@@ -1,5 +1,5 @@
 Orignial script by Friendly
-Edit for Esseker by BoleParty[TGM]
+Edit for Australia by BoleParty[TGM]
 
 There`s another option out there which is working with ProtectionZones and you could use that one instead. Do what you feel like:)
 
