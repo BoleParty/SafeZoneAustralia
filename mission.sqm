@@ -20,26 +20,7 @@ class Mission
 		"A3_Modules_F_Curator_Curator",
 		"a3_characters_f",
 		"A3_Data_F_Curator_Virtual",
-		"australia",
-		"mas_weapons_pack",
-		"mas_weapons",
-		"mas_weapons_ak",
-		"mas_weapons_nw",
-		"mas_weapons_m4",
-		"mas_uh1y",
-		"mas_hmmwv",
-		"mas_ch47",
-		"mas_mi8",
-		"mas_brdm",
-		"mas_uh60m",
-		"mas_cars_lr",
-		"mas_weapons_pack",
-		"mas_vehicleweapons_core",
-		"mas_apc",
-		"mas_tanks",
-		"mas_cars",
-		"mas_cars_hilux",
-		"mas_vehicleweapons_fia"
+		"australia"
 	};
 	addOnsAuto[]=
 	{
@@ -49,7 +30,7 @@ class Mission
 	randomSeed=12032465;
 	class Intel
 	{
-		briefingName="TGM Overpoch Australia";
+		briefingName="Epoch Mod";
 		resistanceWest=0;
 		timeOfChanges=28800;
 		startWeather=0;
