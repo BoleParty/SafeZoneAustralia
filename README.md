@@ -212,5 +212,9 @@ Your markers class needs to be replaced with following code:
 	
 After your changes you don`t need to encrypt the file again as the server will read the decrypted mission.sqm without any issues.
 
+In case you need help with installation process just contact me:
+
+info@tacongamingmilita.com or boleparty@tacongamingmilitia.com
+
 Regards
 BoleParty
